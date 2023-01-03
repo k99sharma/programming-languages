@@ -71,3 +71,5 @@ let fruits: {
 };
 console.log(fruits);
 console.log(fruits.mango);
+
+export {};
